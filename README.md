@@ -1,1 +1,1 @@
-#skyblue-mart.odoo.com/)
+https://skyblue-mart.odoo.com/
