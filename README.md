@@ -1,2 +1,1 @@
-# skybluemart
-[ ](https://skyblue-mart.odoo.com/)
+#skyblue-mart.odoo.com/)
